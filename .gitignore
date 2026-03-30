@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# Project runtime
+.env
+.runtime/
+artifacts/
+
+# Editors
+.idea/
+.vscode/
+
+# Venvs (if accidentally created inside the repo)
+.venv/
+venv/
